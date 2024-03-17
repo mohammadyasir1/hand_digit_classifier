@@ -1,2 +1,15 @@
-# Hand digit classifier
+# Hand digit classifier using ANN
+<img src="./files/mnist.gif">
 <p>Develop a Digit Recognizer using the concepts of Deep Learning along with a tinge of Image Processing</p>
+<p>I Study and learn the basics of Machine Learning and Deep Learning algorithms along with the understanding of the most primitive but effective Optimization algorithm which is Gradient Descent and it's application to Single Node, Multi Node and even Multi Hidden Layer networks. </p>
+
+<p>Digit classifier is implemented using Multi Layer Perceptron containing a single hidden layer with 128 Nodes using ReLU Activation and an Output Layer with 10 Nodes using SoftMax Activation. The optimization algorithm used was Gradient Descent</p>
+
+<p>Loss</p>
+<img src="./files/loss.png">
+
+<p>Accuracy</p>
+<img src="./files/accuracy.png">
+
+
+ <p>Digital pad is a model developed to facilitate the user in drawing black digits onto a white Drawing Pad of 128x128pixels by using the mouse events available in OpenCV and then resizing the image to 28x28pixels and passing it to the trained ANN model for classification.</p>
