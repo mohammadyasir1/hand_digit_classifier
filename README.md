@@ -5,11 +5,11 @@
 
 <p>Digit classifier is implemented using Multi Layer Perceptron containing a single hidden layer with 128 Nodes using ReLU Activation and an Output Layer with 10 Nodes using SoftMax Activation. The optimization algorithm used was Gradient Descent</p>
 
-<p>Loss</p>
+<p><u>Loss</u></p>
 <img src="./files/loss.png">
 
-<p>Accuracy</p>
+<p><u>Accuracy</u></p>
 <img src="./files/accuracy.png">
 
 
- <p>Digital pad is a model developed to facilitate the user in drawing black digits onto a white Drawing Pad of 128x128pixels by using the mouse events available in OpenCV and then resizing the image to 28x28pixels and passing it to the trained ANN model for classification.</p>
+ <p>Digital pad is a model developed to facilitate the user in drawing white digits onto a black Drawing Pad of 28x28pixels by using the mouse events available in OpenCV and then resizing the image to 28x28pixels and passing it to the trained ANN model for classification.</p>
