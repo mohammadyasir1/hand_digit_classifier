@@ -6,6 +6,7 @@
 <p>Digit classifier is implemented using Multi Layer Perceptron containing a single hidden layer with 128 Nodes using ReLU Activation and an Output Layer with 10 Nodes using SoftMax Activation. The optimization algorithm used was Gradient Descent</p>
 
  <p><u>Loss</u></p> 
+ <u>Loss</u>
 <img src="./files/loss.png">
 
 <p><u>Accuracy</u></p> 
