@@ -5,7 +5,7 @@
 <p>Digit classifier is implemented using Multi Layer Perceptron containing a single hidden layer with 128 Nodes using ReLU Activation and an Output Layer with 10 Nodes using SoftMax Activation.</p>
 
  ### Learning curves
-<img src="./files/loss.png">
+<img src="./files/loss1.png">
 <img src="./files/acc.png">
 
 
