@@ -6,6 +6,7 @@
 
  ### Learning curves
 
-![](./files/loss1.png = 75%x) ![](./files/acc.png = 75%x)
+
+<img src="./files/loss1.png" width="425"/> <img src="./files/acc.png" width="425"/> 
 
  <p>Digital pad is a model developed to facilitate the user in drawing white digits onto a black Drawing Pad of 28x28pixels by using the mouse events available in OpenCV and then resizing the image to 28x28pixels and passing it to the trained ANN model for classification.</p>
